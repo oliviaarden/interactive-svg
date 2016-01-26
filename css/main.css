@@ -50,22 +50,22 @@ html {
 }
 
 .st0  {
-  fill:#673200;
+  fill: #673200;
 }
 
 .st1  {
-  fill:#FFAACA;
+  fill: #ffaaca;
 }
 
 .st2 {
-  fill:#C65B00;
+  fill: #c65b00;
 }
 
 .st3  {
-  fill:none;
-  stroke:#000000;
-  stroke-width:3;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-miterlimit:10;
+  fill: none;
+  stroke: #000;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
 }
