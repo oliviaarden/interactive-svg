@@ -44,16 +44,16 @@ html {
 
 @keyframes shifty-eyes {
 
-  0% {transform: translateX(-10px);}
+  0% {  transform: translateX(-10px); }
 
-  100% {transform: translateX(10px);}
+  100% {  transform: translateX(10px);  }
 }
 
-.st0  {
+.st0 {
   fill: #673200;
 }
 
-.st1  {
+.st1 {
   fill: #ffaaca;
 }
 
@@ -61,7 +61,7 @@ html {
   fill: #c65b00;
 }
 
-.st3  {
+.st3 {
   fill: none;
   stroke: #000;
   stroke-width: 3;
